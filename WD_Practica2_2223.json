@@ -106,5 +106,15 @@
       "alt": "Poesia Visual",
       "texto": "Una web sobre Poesia Visual",
       "url": "https://txellcapdevila.github.io/poetipic/"
-      }
+      },
+      {
+      "id":13,
+      "autor": "Aida Ortiz, Aina Planell i Núria Torres",
+      "titulo": "Clara Milian",
+      "srcimg": "https://raw.githubusercontent.com/nuriatorres22/Clara_Milian/main/img/IC.png",
+      "alt": "Logotip Clara Milian",
+      "texto": "Web per l’artista amb un ampli recorregut com il·lustradora i animadora 2D. Actualment en Mont-real, Canadà. Clica per saber-ne més",
+      "url": "https://nuriatorres22.github.io/Clara_Milian/"
+       },
+     
 ]
