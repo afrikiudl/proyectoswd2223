@@ -97,5 +97,14 @@
          "alt": "Imagen corporativa deCora",
          "texto": "Follow your rhythm",
          "url": "https://staccioligabriela.github.io/decoraconcept/"	
+      },
+      {
+      "id":12,
+      "autor": "Txell Capdevila Mora i Abril Ferré Vilanova ",
+      "titulo": "POETIPIC",
+      "srcimg": "https://www.yatzer.com/sites/default/files/styles/featured/public/p1_anatol_knotek_just_hanging_around_yatzer_0.jpg?itok=X7ERpam_",
+      "alt": "Poesia Visual",
+      "texto": "Una web sobre Poesia Visual”,
+      "url": "https://txellcapdevila.github.io/poetipic/"
       }
 ]
