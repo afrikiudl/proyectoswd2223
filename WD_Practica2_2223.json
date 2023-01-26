@@ -84,10 +84,10 @@
          "id": 10,
          "autor": "Cora Ciuraneta",
          "titulo": "ROCK RECORDS",
-         "srcimg": "",
+         "srcimg": "https://ccm24.github.io/rock_records/img/Rock_Records.f0b2f16d.jpg",
          "alt": "Logotip de Rock Records",
          "texto": "Rock Records es un segell discogràfic",
-         "url": "https://ccm24.github.io/RockRecords/"	
+         "url": "https://ccm24.github.io/rock_records/"	
       }, 
       {
          "id": 11,
